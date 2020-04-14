@@ -1,7 +1,7 @@
 # Cold-Games-Organizer-V3
 The Issue Tracker Repository for my Games Organizer App
 
-The app can be downloaded over at https://coldgamesorg.de/cold-games-organizer-v3-beta/
+The app can be downloaded over at https://coldgamesorg.de/
 
 It is built on .Net Core 3.1 and WPF, runs on Windows 7 or newer.
 
